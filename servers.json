@@ -109,6 +109,11 @@
       "name": "Lill q",
       "address": "https://anisette.lillq.me",
       "kind": 2
+    },
+    { 
+      "name": "RansomQ",
+      "address": "https://anisette-v3-server-q5kc.onrender.com"
+
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
